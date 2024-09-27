@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puneetkoundal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 Aspiring Cloud/DevOps engineer
+- 🌱 Cloud/DevOps Learner
 - 📫 How to reach me .. puneetkoundal1@gmail.com
 
 <!---
