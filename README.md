@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puneetkoundal
-- 👀 Aspiring Cloud/DevOps engineer
-- 🌱 Cloud/DevOps Learner
+- 👀 AWS Certified Cloud Practioner | Building Scalable, Secure cloud solutions
+- 🌱 Cloud/DevOps Enthusiast
 - 📫 How to reach me .. puneetkoundal1@gmail.com
 
 <!---
